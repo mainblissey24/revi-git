@@ -63,3 +63,8 @@ Exemplo 01: git switch fix_botao_da_tela_login
 ### Excluir uma branch
 git branch -D nome_da_branch_que_deseja_fechar
 Exemplo: git branch -D fix_botao_da_tela_login
+
+
+## Comandos para trabalhar com branchs
+### Criação de novas branchs
+git checkout
